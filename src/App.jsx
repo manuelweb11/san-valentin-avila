@@ -40,7 +40,7 @@ function App() {
   },
   {
     id: 5,
-    description: "No tengas dudas, te hará sonreír.",
+    description: "No tengas dudas, TE HARÉ SONREÍR.",
     img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
   },
   {
