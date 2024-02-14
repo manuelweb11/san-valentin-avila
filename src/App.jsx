@@ -118,7 +118,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-black font-bold">Sabia que dirias que si ❤️!</h1>
-            <img src="https://ibb.co/FKcFhNw" alt="" className="mx-auto" />
+            <img src="https://muebleriaoscarperu.neocities.org/img/1707858634331.jpg" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si ❤️ mi Niña Preciosa💖 Mi todo🥰 Mi Princesa 🥰Mi Cielo !'}</span>
           </div>
         )
